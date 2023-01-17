@@ -3,7 +3,7 @@ import PropTipes from "prop-types";
 import './movie.css';
 
 
-function Movie({id, title, summary, poster, year, genres}) {
+function Movie({title, summary, poster, year, genres}) {
     return (
         <div className="movie">
             <div className="movie__column">
