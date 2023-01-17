@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gnatkiv/gnatkiv.github.io/tree/main/filmapp/static/css/main.7ce48199.css",
+    "main.js": "/gnatkiv/gnatkiv.github.io/tree/main/filmapp/static/js/main.55ed6dc7.js",
+    "index.html": "/gnatkiv/gnatkiv.github.io/tree/main/filmapp/index.html",
+    "main.7ce48199.css.map": "/gnatkiv/gnatkiv.github.io/tree/main/filmapp/static/css/main.7ce48199.css.map",
+    "main.55ed6dc7.js.map": "/gnatkiv/gnatkiv.github.io/tree/main/filmapp/static/js/main.55ed6dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ce48199.css",
+    "static/js/main.55ed6dc7.js"
+  ]
+}
